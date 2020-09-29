@@ -1,0 +1,4 @@
+#Wed Mar 25 21:06:26 EDT 2020
+base.0=D\:\\Android Project\\Tech mob 9\\TiltSpot\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

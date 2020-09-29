@@ -1,0 +1,4 @@
+#Sat Mar 21 16:43:40 EDT 2020
+base.0=D\:\\Android Project\\Tech mob 9\\SensorSurvey\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
